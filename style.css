@@ -18,17 +18,30 @@
 }
 
 main{
-  text-align:center;
+  width:840px;
+  margin: 50px auto;
 }
 
-.blog{
-  width: 840px;
-  text-align: center;
-  margin: 50px;
-}
-
-.blog-item{
-  padding-bottom: 30px;
+.blog-item1{
   margin-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.blog-item2{
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+
+}
+
+.blog-item13{
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.blog-item1{
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
